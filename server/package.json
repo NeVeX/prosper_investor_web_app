@@ -1,0 +1,12 @@
+{
+  "name": "p2p-invest-api",
+  "description": "P2P Investing API",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "4.15.3",
+    "request": "2.81.0",
+    "client-sessions": "0.8.0",
+    "path": "0.12.7"
+  }
+}
